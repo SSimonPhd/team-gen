@@ -1,0 +1,29 @@
+{
+  "name": "team-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "_test_"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SSimonPhd/team-gen"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://simonphd.me"
+  },
+  "homepage": "",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
