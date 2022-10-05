@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-Build a Node.js command-line application from scratch that generates an HTML webpage that displays team member profiles. Write unit tests and ensure that each passes by running Jest.
+Build a Node.js command-line application from scratch that generates an HTML webpage that displays team member profiles. Write unit tests and ensure that each passes.
 
 1. Created repo
 1. Coded test files
