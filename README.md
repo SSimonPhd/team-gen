@@ -12,7 +12,7 @@ Build a Node.js command-line application from scratch that generates an HTML web
 
 - URL to Video Demo
 
-coming soon!
+https://drive.google.com/file/d/1L6If_iC0ZGlRI60zMDZ-gCJ_FJMWQTj3/view
 
 - URL to GitHub Repo
 
